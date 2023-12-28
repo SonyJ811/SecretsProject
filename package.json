@@ -1,0 +1,27 @@
+{
+  "name": "267.-secrets---starting-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jasmine",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "encryptly": "^1.0.0",
+    "express": "^4.18.2",
+    "express-flash": "^0.0.2",
+    "express-session": "^1.17.3",
+    "md5": "^2.3.0",
+    "passport": "^0.7.0",
+    "passport-google-oauth20": "^2.0.0",
+    "passport-local": "^1.0.0",
+    "pg": "^8.11.3"
+  }
+}
